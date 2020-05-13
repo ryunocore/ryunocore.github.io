@@ -96,3 +96,5 @@
     document.getElementsByClassName('window-body')[0].style.visibility = 'visible';
     document.getElementsByClassName('window')[0].style.height = 'auto';
   }
+}
+
